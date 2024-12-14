@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther Park</h1>
 <h3 align="center">A passionate cybersecurity analyst from Georgia Tech</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s">
 
 - 👨‍💻 All of my projects are available at [https://estherpark514.github.io/portfolio/](https://estherpark514.github.io/portfolio/)
 
