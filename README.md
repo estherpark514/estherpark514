@@ -1,4 +1,9 @@
-<p align="left">Hi! This is Esther</p>
+<p align="left">Hi! This is Esther.</p>
+
+Welcome to my portfolio! If you'd like to take a look, you can visit it here:  
+👉 [Esther's Portfolio](https://estherpark514.github.io/portfolio/)
+
+Feel free to explore my projects and reach out if you have any questions or would like to collaborate!
 
 ###
 
